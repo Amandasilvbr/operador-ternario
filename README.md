@@ -1,3 +1,4 @@
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 <h1>Olá! Esse exercício trabalha com operadores ternários do JavaScript!</h1>
 
 ✔️Nesse exercício, os operadores foram utilizados para otimizar o código e diminuir o números de estruturas condicionais;
